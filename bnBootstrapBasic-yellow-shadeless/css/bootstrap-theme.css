@@ -1,0 +1,76 @@
+/* by black-night 2014 */
+
+.jumbotron {
+  background-color: #FFE900;
+  background-image: -webkit-linear-gradient(top, #FFD800 0%, #FFE900 100%);
+  background-image: linear-gradient(to bottom, #FFD800 0%, #FFE900 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffFFD800', endColorstr='#ffFFE900', GradientType=0);  
+}
+.jumbotron h1, .jumbotron .h1,
+.jumbotron h2, .jumbotron .h2,
+.jumbotron h3, .jumbotron .h3 {
+  color: #333333;
+}
+
+.navbar-default .navbar-brand {
+  color: #FFE900;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #FFD800;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  background-color: #FFE900;
+  color: #333333;
+}
+
+.navbar-default .navbar-nav > .open > a, 
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus {
+  background-color: #FFD800;
+  color: #333333;
+}
+
+.navbar-default .navbar-nav > .active > a ,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus{
+  background-color: #FFD800;
+  color: #333333;
+}
+
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus {
+  background-color: #FFE900;
+  color: #333333;
+}
+
+.dropdown-menu > .active > a, 
+.dropdown-menu > .active > a:hover, 
+.dropdown-menu > .active > a:focus {
+  background-color: #FFD800;
+}
+
+.form-control:focus {
+  border-color: #FFE900;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(255, 216, 0, 0.6);
+}
+
+.input-group-addon {
+  background-color: #999999;
+}
+
+#footer {
+  background-color: #303030;
+}
+
+a {
+  color: #FFE900;
+}
+
+a:hover, 
+a:focus {
+  color: #FFD800;
+}

@@ -1,0 +1,76 @@
+/* by black-night 2014 */
+
+.jumbotron {
+  background-color: #396FDB;
+  background-image: -webkit-linear-gradient(top, #2B53A8 0%, #396FDB 100%);
+  background-image: linear-gradient(to bottom, #2B53A8 0%, #396FDB 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff2B53A8', endColorstr='#ff396FDB', GradientType=0);  
+}
+.jumbotron h1, .jumbotron .h1,
+.jumbotron h2, .jumbotron .h2,
+.jumbotron h3, .jumbotron .h3 {
+  color: #E2E2E2;
+}
+
+.navbar-default .navbar-brand {
+  color: #396FDB;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #2B53A8;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  background-color: #396FDB;
+  color: #E2E2E2;
+}
+
+.navbar-default .navbar-nav > .open > a, 
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus {
+  background-color: #2B53A8;
+  color: #E2E2E2;
+}
+
+.navbar-default .navbar-nav > .active > a ,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus{
+  background-color: #2B53A8;
+  color: #E2E2E2;
+}
+
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus {
+  background-color: #396FDB;
+  color: #E2E2E2;
+}
+
+.dropdown-menu > .active > a, 
+.dropdown-menu > .active > a:hover, 
+.dropdown-menu > .active > a:focus {
+  background-color: #2B53A8;
+}
+
+.form-control:focus {
+  border-color: #396FDB;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(43, 83, 168, 0.6);
+}
+
+.input-group-addon {
+  background-color: #999999;
+}
+
+#footer {
+  background-color: #303030;
+}
+
+a {
+  color: #396FDB;
+}
+
+a:hover, 
+a:focus {
+  color: #2B53A8;
+}
