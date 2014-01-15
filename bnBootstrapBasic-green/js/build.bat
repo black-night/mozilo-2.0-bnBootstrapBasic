@@ -1,1 +1,0 @@
-java -jar D:\yuicompressor\yuicompressor-2.4.8.jar bn-bootstrap.js -o bn-bootstrap.min.js
