@@ -7,3 +7,4 @@ Es wird das Plugin Bootstrap benötigt . (https://github.com/black-night/mozilo-2
 
 * Lizenz: 
       * Dieses Projekt ist lizensiert als Inhalt der Creative Commons Namensnennung 4.0 International Lizenz. Um eine Kopie der Lizenz zu sehen, besuchen Sie http://creativecommons.org/licenses/by/4.0/
+      * Livedemo unter http://www.bn-app.de/bnBootstrapBasic/
