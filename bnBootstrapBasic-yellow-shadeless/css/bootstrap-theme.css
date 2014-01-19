@@ -66,6 +66,42 @@
   background-color: #303030;
 }
 
+.panel-default > .panel-heading {
+  background-color: #ffd800;
+  color: #333;
+}
+
+.panel-default > .panel-heading  a:hover, 
+.panel-default > .panel-heading  a:focus {
+  color: #333;
+}
+
+.panel-footer {
+    background-color: #B5B5B5;
+}
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+  background-color: #ffe900;
+  color: #333;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+  background-color: #ffd800;
+  color: #333;
+  border-color: #ffe900 #ffe900 rgba(0, 0, 0, 0);
+}
+
+.nav-tabs {
+  border-bottom: 1px solid #ffd800;
+}
+
+.nav-tabs > li > a:hover {
+  border-color: #ffd800 #ffd800 rgba(0, 0, 0, 0);
+}
+
 a {
   color: #FFE900;
 }

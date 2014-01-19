@@ -66,6 +66,42 @@
   background-color: #303030;
 }
 
+.panel-default > .panel-heading {
+  background-color: #D34339;
+  color: #E2E2E2;
+}
+
+.panel-default > .panel-heading  a:hover, 
+.panel-default > .panel-heading  a:focus {
+  color: #E2E2E2;
+}
+
+.panel-footer {
+    background-color: #B5B5B5;
+}
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+  background-color: #E74C3C;
+  color: #E2E2E2;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+  background-color: #D34339;
+  color: #E2E2E2;
+  border-color: #E74C3C #E74C3C rgba(0, 0, 0, 0);
+}
+
+.nav-tabs {
+  border-bottom: 1px solid #D34339;
+}
+
+.nav-tabs > li > a:hover {
+  border-color: #D34339 #D34339 rgba(0, 0, 0, 0);
+}
+
 a {
   color: #E74C3C;
 }
