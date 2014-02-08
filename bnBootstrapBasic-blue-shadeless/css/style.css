@@ -3,6 +3,11 @@ body {
   height: 100%;
 }
 
+pre {
+    border: 0;
+    white-space: pre-wrap;
+}
+
 #wrap {
   min-height: 100%;
   height: auto;
@@ -64,6 +69,10 @@ code {
 .navbar-header {
   float: none;
 }  
+
+.navbar-brand {
+  height: auto;
+}
 
 /* Plug-in FotoGalerie */
 a.thumbnail-link  > img.thumbnail {
